@@ -1,0 +1,17 @@
+# Questions
+
+1. One way data travels on the internet is through bits that get
+sent through electricity. Operators send one bit per second and
+that is managed with a timer or a clock. Then the receiver will
+record every second.
+
+2. An IP address and the DNS go hand in hand because an IP address
+is the address assigned to any computer and a DNS address is a Domain
+Name Service which converts references for an IP's address for hosting
+services.
+
+3. A computer cookie is data from websites that is stored in a persons
+computer while that person is browsing on the internet.
+
+4. The three basic parts of a URL consist of the protocol, the resource ID,
+and the server name.
