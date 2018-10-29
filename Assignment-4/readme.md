@@ -14,4 +14,4 @@
 - Lastly, I completed the readme and uploaded everything to GitHub and the links to moodle.
 
 ## Screenshot
-![Picture of screenshot](./Images/screen_shot.jpg) 
+![Picture of screenshot](./Images/screen_shot.JPG) 
