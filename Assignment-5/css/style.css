@@ -1,0 +1,51 @@
+/*Direct Chaining*/
+body{
+  background-color: yellow;
+  font-family: 'inherit', serif,
+
+}
+
+h1 {
+/*Color Text*/
+   color: rgb(255, 0, 0);;
+   text-align: center !important;
+}
+
+p {
+  /*Color Text*/
+   color: white
+   font-size: 30px;
+   /* Set Position */
+   text-align: center !important;
+}
+
+b {
+  /*Color Text*/
+   color: rgb(0, 0, 255);;
+   font-weight: 700;
+   /* Set position */
+   text-align: center !important;
+   font-size: 26px
+}
+
+.container{
+   background-color: powderblue;
+   width: 1250px;
+   margin: auto;
+   padding: 20px;
+   border: 10px dashed rgb(0, 255, 0);
+
+
+  }
+  img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+/* Set Size */
+      width: 40%;
+  }
+/*set opacity*/
+div{
+  opacity: .85;
+}
+}
