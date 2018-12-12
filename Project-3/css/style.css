@@ -1,0 +1,44 @@
+/*main container with the width/height, margin, padding, border,
+and embeded font*/
+.parent-container {
+  background-color: rgb(255,255,255);
+  width: 1250px;
+  margin: auto;
+  padding: 20px;
+  min-width: 400px;
+  max-width: width;
+  text-align: center;
+  text: Charmonman;
+  font-size: 35px;
+   border: 10px dotted pink
+
+}
+/*main display for list that changes to italic if hovered over*/
+.display-inline-block {
+    display: inline-block;
+    position: relative;
+        top: -8em;
+      align-items: center;
+        background-color: pink;}
+        a:hover {
+          color:  grey;
+        font-style: italic;
+        z-index: 2;
+      }
+
+    h1 {
+    /*Color Text and font*/
+    color: black;
+    text-align: center !important;
+    font-family: Charmonman;
+    font-size: 60px;
+  }
+  p{
+    /*Color Text*/
+     color: black
+     font-size: 35px;
+     /* Set Position */
+     text-align: center !important;
+      font-family: Charmonman;
+      line-height: normal;
+  }
