@@ -11,3 +11,6 @@ For this project I wanted to create a design that resembled me. I love clean sim
 - I then came up with a concept and found a picture I wanted to use for the assignment.
 - Then I began my project and if I came across any issues I referenced the course website and google.
 - Once completed I submitted my links to moodle.
+
+## Screen Shot
+![Picture of screenshot](./Images/screenshot.JPG) 
